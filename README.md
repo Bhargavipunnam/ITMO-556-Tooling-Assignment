@@ -5,7 +5,7 @@
 ## Introduction
 This repository contains the tooling setup assignment for the ITMO-556 course. The following steps outline the installation and verification of essential tools using package managers on Windows.
 ## Outcome
-By following this tutorial, I have successfully set up a comprehensive development environment using Chocolatey, a package manager for Windows. The tools installed include Git for version control, Vagrant for virtual machine management, Packer for infrastructure automation, and PowerShell Core for scripting. These installations provide a solid foundation for future tasks in cloud-native application development and automation, as required by the ITMO-556 course.
+By following the tutorial, I have successfully set up a comprehensive development environment using Chocolatey, a package manager for Windows. The tools installed include Git for version control, Vagrant for virtual machine management, Packer for infrastructure automation, and PowerShell Core for scripting. These installations provide a solid foundation for future tasks in cloud-native application development and automation, as required by the ITMO-556 course.
 
 
 ## Step 1: Installing Chocolatey
