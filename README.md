@@ -30,6 +30,16 @@ Packer is a tool for creating machine images for multiple platforms from a singl
 
 ![Packer Installation](https://github.com/Bhargavipunnam/ITMO-556-Tooling-Assignment/blob/main/image%206.png)
 
+## Step 6: Verifying Versions of Installed Tools
+After installing Git, Vagrant, and Packer, I verified their versions to ensure they were correctly installed. The commands used to check the versions and their outputs are shown in the screenshot below.
+
+- **Git Version**: This confirms that Git version 2.46.0 is installed.
+- **Vagrant Version**: This confirms that Vagrant version 2.4.1 is installed.
+- **Packer Version**: This confirms that Packer version 1.11.0 is installed. Note that an update is available for Packer.
+
+![Version Checks](https://github.com/Bhargavipunnam/ITMO-556-Tooling-Assignment/blob/main/image%203.png)
+
+
 
 ## Conclusion
 The screenshots provided above demonstrate the successful installation of the required tools using Chocolatey. These tools are now ready for use in further coursework related to cloud-native application development and automation.
